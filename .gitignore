@@ -1,0 +1,18 @@
+# Node.js / React
+smart-resume-frontend/node_modules/
+smart-resume-frontend/dist/
+smart-resume-frontend/.env
+
+# Spring Boot
+smart-reume-backend/target/
+smart-reume-backend/.env
+
+# System / IDE files
+.vscode/
+.idea/
+*.iml
+*.log
+.DS_Store
+
+# OS files
+Thumbs.db
